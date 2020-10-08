@@ -1,1 +1,1 @@
-title:QUT Robotics Club 
+Temporary text for website homepage
