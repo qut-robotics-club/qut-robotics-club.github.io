@@ -19,13 +19,8 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-        
-        <p><a href="{{About Us}}">{{ site.github.owner_name }}</a>
-          <a href="{{Robots}}">{{https://qut-robotics-club.github.io/robots}}</a>
-          <a href="{{Events}}">{{https://qut-robotics-club.github.io/events}}</a>
-        </p>
 
-        <! --
+        <!--
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -51,10 +46,17 @@
 
       </section>
       <footer>
+        <p>
+          <a href="{{About Us}}">{{ site.github.owner_name }}</a>
+          <a href="{{Robots}}">{{https://qut-robotics-club.github.io/robots}}</a>
+          <a href="{{Events}}">{{https://qut-robotics-club.github.io/events}}</a>
+        </p>
+        <!--
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        -->
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
