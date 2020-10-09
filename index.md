@@ -10,7 +10,6 @@ The QUT Robotics Club is a student run organisation dedicated to promoting robot
 + Secretary - Luigi Jaldon
 + General Executives - Haard Shar, Louis Von Richter, Smriti Bangera, Andrew Razjigaev, Lindsey Paul
 
-### Contact Us
-TODO
-
+## Contact Us
+Contact us via qutroboticsclub@gmail.com or get the latest event information from our Facebook [page](https://www.facebook.com/QUTRoboticsClub/)/[group](https://www.facebook.com/groups/qutroboticsclub/).
 
