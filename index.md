@@ -1,5 +1,5 @@
-from IPython.display import HTML, display
-display(HTML("<table><tr><td><img src='assets/img/Logo_no_text.png' width="50%"></td><td><img src='assets/img/Logo_no_text.png' width="50%"></td></tr></table>"))
+<img src='assets/img/Logo_no_text.png' width="40%"><img src='assets/img/Logo_no_text.png' width="40%">
+![alt](assets/img/Logo_no_text.png) | ![alt](assets/img/Logo_no_text.png)
 
 The QUT Robotics Club is a student run organisation dedicated to promoting robotics within the QUT community and supporting QUT students’ future in Robotics.
 
