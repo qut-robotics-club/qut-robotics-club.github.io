@@ -1,14 +1,14 @@
 Image
 
-<div class="row">
-  <div class="column">
-    <img src="assets/img/Logo_no_text.png" alt="Logo" style="width:100%">
+<div class="column">
+  <div class="row">
+    <img src="assets/img/Logo_no_text.png" alt="Logo" style="height:100%">
     </div>
-  <div class="column">
-    <img src="assets/img/Logo_no_text.png" alt="Logo" style="width:100%">
+  <div class="row">
+    <img src="assets/img/Logo_no_text.png" alt="Logo" style="height:100%">
     </div>
-  <div class="column">
-    <img src="assets/img/Logo_no_text.png" alt="Logo" style="width:100%">
+  <div class="row">
+    <img src="assets/img/Logo_no_text.png" alt="Logo" style="height:100%">
     </div>
   </div>
   
