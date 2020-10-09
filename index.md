@@ -1,5 +1,18 @@
 Image
 
+<div class="row">
+  <div class="column">
+    <img src="assets/img/Logo_no_text.png" alt="Logo" style="width:100%">
+    </div>
+  <div class="column">
+    <img src="assets/img/Logo_no_text.png" alt="Logo" style="width:100%">
+    </div>
+  <div class="column">
+    <img src="assets/img/Logo_no_text.png" alt="Logo" style="width:100%">
+    </div>
+  </div>
+  
+
 The QUT Robotics Club is a student run organisation dedicated to promoting robotics within the QUT community and supporting QUT students’ future in Robotics.
 
 ## Our Executives 2020-2021
