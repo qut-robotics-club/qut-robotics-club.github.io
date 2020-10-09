@@ -2,13 +2,13 @@ Image
 
 <div class="column">
   <div class="row">
-    <img src="assets/img/Logo_no_text.png" alt="Logo" style="height:100%">
+    <img src="assets/img/Logo_no_text.png" alt="Logo" style="height:30%">
     </div>
   <div class="row">
-    <img src="assets/img/Logo_no_text.png" alt="Logo" style="height:100%">
+    <img src="assets/img/Logo_no_text.png" alt="Logo" style="height:30%">
     </div>
   <div class="row">
-    <img src="assets/img/Logo_no_text.png" alt="Logo" style="height:100%">
+    <img src="assets/img/Logo_no_text.png" alt="Logo" style="height:30%">
     </div>
   </div>
   
